@@ -1,4 +1,7 @@
 div{height: 200px; width: 300px;padding: 20px; margin: 10px; background-color: blue;}
-#bck{ transform: translate(5px,-25px);height: 120px; width: 150px; padding: 20px; margin: 45px; background-color: aliceblue;}
-.bc{margin: 5px; background-color: lightblue;}
-.bk{background-color: blueviolet;}
+#bck{ transform: translate(5px,-25px);height: 120px; width: 150px; padding: 20px; margin: 45px;
+     background-color: aliceblue; list-style-position: inside;}
+li{margin: 5px; background-color: lightblue;}
+.bk{background-color: blueviolet;margin: 5px;}
+span{background: lightskyblue; background-size: 30px 100px;
+}
